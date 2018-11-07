@@ -1,5 +1,5 @@
 /**
-*  ****	return true if node is in the tree, given the idx of the query node in complete binary tree.
+*	return true if node is in the tree, given the idx of the query node in complete binary tree.
 */
 public class Solution{
      public static void main(String []args){
