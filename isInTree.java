@@ -1,4 +1,7 @@
 /**
+<<<<<<< HEAD
+=======
+*  ****	return true if node is in the tree, given the idx of the query node in complete binary tree.
 >>>>>>> paul
 */
 public class Solution{
